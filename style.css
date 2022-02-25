@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+body{
+    padding: 2% 4%;
+    font-family: 'Montserrat', sans-serif;
+    min-width: 450px;
+    min-height: 500px;
+}
+
+.container{
+        max-width: 76.5%;
+        padding: 0 auto;
+        margin: 5px auto;
+}
+
+.ext{
+    max-width: 100%;
+    padding: 10px auto;
+    margin: 5px auto;
+}
+
+input{
+    width: 96%;
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 4px 6px;
+    border: 2px solid crimson;
+    outline: none;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+}
+input:focus{
+    background-color: lavenderblush;
+}
+
+button{
+    border: none;
+    background: none;
+    background-color: darkred;
+    color: white;
+    padding: 8px 12px;
+    margin: 0 5px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+button:hover
+{
+    background-color: crimson;
+}
+
+#list{
+    font-size: 14px;
+    padding: 3% 2%;
+    margin: 0;
+    color: darkred;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin: 4px 0;
+}
+
+a{
+    color: darkred;
+}
+
+#clear
+{
+    background-color: white;
+    border:  2px solid darkred;
+    color: darkred;
+}
+
+#clear:hover
+{
+    background-color: lavenderblush;
+    border:  2px solid darkred;
+    color: darkred;
+}
