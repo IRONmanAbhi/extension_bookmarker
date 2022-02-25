@@ -1,0 +1,1 @@
+chrome extension followed the tutorial of freecodecamp, practicing javaScript
