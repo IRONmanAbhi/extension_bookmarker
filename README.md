@@ -1,4 +1,4 @@
-chrome extension followed the tutorial of freecodecamp, practicing javaScript
+practicing javaScript
 ------------------------------------------------------------------------------------
 To add this extension to you browser:
 1. go to chorme://extensions
